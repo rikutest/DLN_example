@@ -13,3 +13,10 @@ This is a markdown file describing how to do the gel electrophoresis.
 1. DNA/samples
 
 ## What to do
+
+
+## Results
+
+After you've followed these instructions, you should get something like [this](/results):
+
+![](/maxresdefault.jpg)
