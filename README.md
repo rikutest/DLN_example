@@ -137,8 +137,9 @@ rm -rf *
 
 ![you're a wizard](maxresdefault.jpg)
 
+<img src="maxresdefault.jpg" width=100/>
 
-
+![](https://pics.me.me/youre-a-wizard-harry-youre-a-hairy-wizard-%F0%9F%98%82%F0%9F%98%82%F0%9F%98%82-12396423.png)
 
 
 
