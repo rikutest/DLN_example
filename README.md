@@ -135,7 +135,7 @@ rm -rf *
 
 ## Inserting images
 
-
+![you're a wizard](maxresdefault.jpg)
 
 
 
